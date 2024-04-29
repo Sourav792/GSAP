@@ -1,1 +1,1 @@
-# GSAP
+# GSAP - GreenSock Animation Platform
