@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
+    body {
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    overflow-x: hidden;
+    }
+    .page {
+        width: 100%;
+        height: 100vh;
+    }
+    #page1 {
+    
+        background: rgb(222, 187, 255);
+    }
+    #page2 {
+        background: rgb(91, 26, 151);
+    }
+    h1 {
+        font-size: 35vw;
+        font-weight: 500;
+        color: #fff;
+    }
+    
+    #page3 {
+        background: rgb(222, 187, 255);
+    }
+    
