@@ -1,0 +1,26 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+width: 100%;
+height: 100vh;
+background-color: #000;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 700;
+    color: #fff;
+    /* background: red; */
+    padding: 20px;
+    overflow: hidden;
+}
+h1 span {
+    display: inline-block;
+}
